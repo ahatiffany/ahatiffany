@@ -8,16 +8,16 @@ I'm Tiffany, a US-based 🇺🇸 product builder and storyteller.
 - 🏗️ building intelligence layer for smart home and digital health
 - 🧐 researching compound AI, digital brain, and humain digital twins
 
-&nbsp;
+\
 🏛️ Patents & Publications 🏛️
 - 🇺🇸 Patent 11,706,264 B2 | Virtual Position Based Management of Collaboration Sessions | Issued July 2023
-- 📢 Technical Disclousre | Optimizing LLM-Based Queries and Responses Using Encoded User Profile | Issued May 2024
+- 👀 Technical Disclousre | Optimizing LLM-Based Queries and Responses Using Encoded User Profile | Issued May 2024
 
-&nbsp;
-Industry Awards
+\
+🏆 Industry Awards 🏆
 - CES Innnovations Honoree | NETGEAR ReadyNAS Ultra 2 | Awarded Jan 2011
 
-&nbsp;
-Certifications
+\
+🎓 Certifications 🎓
 - AI Fluency: Framework & Foundations | Anthropic | Issued Feb 2026
 - Building with Claude API | Anthropic | Issued Feb 2026
