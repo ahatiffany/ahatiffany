@@ -16,8 +16,3 @@ I'm Tiffany, a US-based 🇺🇸 product builder and storyteller.
 \
 🏆 Industry Awards 🏆
 - CES Innnovations Honoree | NETGEAR ReadyNAS Ultra 2 | Awarded Jan 2011
-
-\
-🎓 Certifications 🎓
-- AI Fluency: Framework & Foundations | Anthropic | Issued Feb 2026
-- Building with Claude API | Anthropic | Issued Feb 2026
