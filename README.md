@@ -5,7 +5,7 @@ I'm Tiffany, a US-based 🇺🇸 product builder and storyteller.
 🎙️ About Me in 15 Secs 🎙️
 - 👩🏻‍💻 product management + advertising, finance, and marketing experiences
 - ✍🏼 storyteller who loves to journal and write creative non-fiction and fiction
-- 🏗️ building intelligence layer for smart home and digital health
+- 🏗️ building a reasoning capture system for estate planning and legacy decisions
 - 🧐 researching compound AI, digital brain, and humain digital twins
 
 \
